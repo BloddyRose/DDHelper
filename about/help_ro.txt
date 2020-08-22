@@ -1,0 +1,5 @@
+In acest sunt doar doua sectiuni de intrare de date 
+
+Prima este sa iti selectezi usb scrie doar sdb nu /dev/sdb
+
+A doua este sa introduci fisiserul iso

@@ -1,0 +1,5 @@
+These script need only two arguments a usb and a file 
+You need to select your usb type only sdb or sdc not /dev/sdb the script will automatically will do it 
+for you 
+
+Second thing is the iso file (be aware this work only with linux) Full Path /home/user/...

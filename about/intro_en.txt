@@ -1,0 +1,13 @@
+Welcome user to the DD Helper script 
+
+This script is designed to help noobs with the dd tool
+
+ ____  _           _     _       ____                
+| __ )| | ___   __| | __| |_   _|  _ \ ___  ___  ___ 
+|  _ \| |/ _ \ / _` |/ _` | | | | |_) / _ \/ __|/ _ \
+| |_) | | (_) | (_| | (_| | |_| |  _ < (_) \__ \  __/
+|____/|_|\___/ \__,_|\__,_|\__, |_| \_\___/|___/\___|
+                           |___/                     
+
+
+Watchout with this script it can delete data form usb!!

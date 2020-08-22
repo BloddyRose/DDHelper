@@ -1,0 +1,17 @@
+Buna Utilizatorule bun venit la DD Helper 
+
+Acest script a fost facut ca sa ajute incepatorii sa utilizeze comanda dd mai usor
+
+ ____  _           _     _       ____                
+| __ )| | ___   __| | __| |_   _|  _ \ ___  ___  ___ 
+|  _ \| |/ _ \ / _` |/ _` | | | | |_) / _ \/ __|/ _ \
+| |_) | | (_) | (_| | (_| | |_| |  _ < (_) \__ \  __/
+|____/|_|\___/ \__,_|\__,_|\__, |_| \_\___/|___/\___|
+                           |___/                  
+
+
+
+Ai grija cu acest script cum il folosesti poate sterge date daca nu esti atent!!
+
+
+
